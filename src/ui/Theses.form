@@ -48,7 +48,7 @@
                   <KeyStroke key="Shift+Ctrl+Alt+P"/>
                 </Property>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/img/print_icon.png"/>
+                  <Image iconType="3" name="/img/ic_print.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Print.."/>
               </Properties>
@@ -111,7 +111,7 @@
                   <KeyStroke key="Ctrl+V"/>
                 </Property>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/img/default paste.png"/>
+                  <Image iconType="3" name="/img/ic_ paste.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Paste"/>
               </Properties>
@@ -350,7 +350,7 @@
         <Component class="javax.swing.JButton" name="jButton2">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/img/print_icon.png"/>
+              <Image iconType="3" name="/img/ic_print.png"/>
             </Property>
             <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
               <Dimension value="[50, 50]"/>
@@ -417,7 +417,7 @@
     <Component class="javax.swing.JLabel" name="jLabel1">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/img/search_20px_1.png"/>
+          <Image iconType="3" name="/img/ic_search.png"/>
         </Property>
       </Properties>
     </Component>

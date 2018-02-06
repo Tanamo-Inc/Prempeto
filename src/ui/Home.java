@@ -122,7 +122,7 @@ public class Home extends javax.swing.JFrame {
         });
         but_title.add(txt_searches, new org.netbeans.lib.awtextra.AbsoluteConstraints(630, 140, 220, 30));
 
-        jLabel16.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/search_20px_1.png"))); // NOI18N
+        jLabel16.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/ic_search.png"))); // NOI18N
         jLabel16.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mousePressed(java.awt.event.MouseEvent evt) {
                 jLabel16MousePressed(evt);
@@ -326,7 +326,7 @@ public class Home extends javax.swing.JFrame {
         jLabel9.setForeground(new java.awt.Color(51, 0, 0));
         jLabel9.setText("Members");
 
-        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/manage-user.png"))); // NOI18N
+        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/ic_manage.png"))); // NOI18N
         jLabel10.setMaximumSize(new java.awt.Dimension(80, 80));
         jLabel10.setMinimumSize(new java.awt.Dimension(80, 80));
         jLabel10.setPreferredSize(new java.awt.Dimension(80, 80));
@@ -504,7 +504,7 @@ public class Home extends javax.swing.JFrame {
         // TODO add your handling code here:
         try {
 
-            String URL = "https://www.knust.edu.gh/";
+            String URL = "https://library.knust.edu.gh/";
 
             Desktop.getDesktop().browse(java.net.URI.create(URL));
 

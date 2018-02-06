@@ -348,7 +348,7 @@ public class Theses extends JFrame {
         });
         jToolBar1.add(but_new);
 
-        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/print_icon.png"))); // NOI18N
+        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/ic_print.png"))); // NOI18N
         jButton2.setMaximumSize(new java.awt.Dimension(50, 50));
         jButton2.setPreferredSize(new java.awt.Dimension(50, 50));
         jButton2.addActionListener(new java.awt.event.ActionListener() {
@@ -396,7 +396,7 @@ public class Theses extends JFrame {
             }
         });
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/search_20px_1.png"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/ic_search.png"))); // NOI18N
 
         jMenu1.setText("File");
         jMenu1.addActionListener(new java.awt.event.ActionListener() {
@@ -427,7 +427,7 @@ public class Theses extends JFrame {
         jMenu1.add(jMenuItem9);
 
         jMenuItem8.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_P, java.awt.event.InputEvent.ALT_MASK | java.awt.event.InputEvent.SHIFT_MASK | java.awt.event.InputEvent.CTRL_MASK));
-        jMenuItem8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/print_icon.png"))); // NOI18N
+        jMenuItem8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/ic_print.png"))); // NOI18N
         jMenuItem8.setText("Print..");
         jMenuItem8.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -471,7 +471,7 @@ public class Theses extends JFrame {
         jMenu2.add(jMenuItem2);
 
         jMenuItem7.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_V, java.awt.event.InputEvent.CTRL_MASK));
-        jMenuItem7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/default paste.png"))); // NOI18N
+        jMenuItem7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/ic_ paste.png"))); // NOI18N
         jMenuItem7.setText("Paste");
         jMenuItem7.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
