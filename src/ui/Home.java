@@ -575,6 +575,9 @@ public class Home extends javax.swing.JFrame {
 
             if (s1.equalsIgnoreCase("tanamo")) {
                 JOptionPane.showMessageDialog(null, "Loading....");
+              //my logic code goes here.
+                
+                
             } else {
                 JOptionPane.showMessageDialog(null, "Contact Admin.");
             }
